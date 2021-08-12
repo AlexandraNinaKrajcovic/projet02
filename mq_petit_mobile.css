@@ -94,7 +94,7 @@
 	}
 	.les_plus_populaires .populaires .bloc_populaires picture img{
 		width: 97%;
-		border-radius:20px;
+		border-radius:20px 20px 0 0
 	}
 	.les_plus_populaires .populaires .bloc_populaires .info_cotes{
 		line-height: 17px;
